@@ -1,4 +1,4 @@
 # Algos Problem Solving
 
-Algos 
+Algos using javascript.
 ls
