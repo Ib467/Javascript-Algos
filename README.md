@@ -1,4 +1,4 @@
-# Algos_bubblesort
+# Algos Problem Solving
 
-Algos bubble sort problem 7-7l
+Algos using javascript.
 ls
