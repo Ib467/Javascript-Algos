@@ -19,3 +19,5 @@ function intersectSortedArraysDedupe2(arr1, arr2) {
 
 console.log(intersectSortedArraysDedupe2([1, 2, 2, 3], [2, 2, 4]));
 // should log [2]
+
+//new js file
