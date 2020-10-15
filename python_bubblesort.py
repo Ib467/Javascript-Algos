@@ -1,3 +1,5 @@
+# simple python bubblesort solution
+
 arr =[1,5,3,2,0,8]
 
 def bubbleSort(arr):
@@ -9,4 +11,5 @@ def bubbleSort(arr):
             print("swapped", arr[i], arr[i+1])
         else:
             print("no need to swap". arr[i], arr[i+1])
-bubbleSort(arr)
+
+bubbleSort(arr);
